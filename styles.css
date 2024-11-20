@@ -1,0 +1,40 @@
+header{
+    background-color:#6B4E71;
+}
+.presentacion{
+    background-color:#C2B2B4;
+    color: white;
+}
+
+.btnEnviar{
+    background-color: #C2B2B4;
+    border: 0px;
+    border-radius: 4px;
+}
+
+footer{
+    background-color:#53687E;
+    color: white !important;
+    }
+
+    .linea{
+        background-color: white;
+        height: 3px;
+        width: 100px;
+    }
+    
+    .linea2 {
+        background-color:black;
+        height: 3px;
+        width: 100px;
+    }
+    .btnDescargar{
+     background-color: #C2B2B4 !important;
+     color: white !important;
+     border-color: white !important;
+    }
+    .btnDescargar:hover {
+        background-color: #53687E !important;
+        color: black !important;
+        border-color: #C2B2B4 !important;
+       }
